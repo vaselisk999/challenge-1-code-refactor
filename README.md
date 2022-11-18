@@ -33,6 +33,6 @@ The following image shows the web application's appearance and functionality:
 
 You are required to submit the following for review:
 
-* The URL of the deployed application. [Application link](https://github.com/vaselisk999/challenge-1-code-refactor).
+* The URL of the deployed application. [Application link](https://vaselisk999.github.io/challenge-1-code-refactor/).
 
 * The URL of the GitHub repository. [Repository link](https://github.com/vaselisk999).
