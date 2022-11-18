@@ -41,6 +41,8 @@ h2 {
     color: #ffffff;
 }
 
+/* logo styles */
+
 .header h1 {
     display: inline-block;
 }
@@ -134,7 +136,7 @@ a {
     color: #ffffff;
 }
 
-/* footer  container styles*/
+/* footer container styles*/
 
 .footer {
     padding: 30px;
